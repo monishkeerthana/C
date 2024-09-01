@@ -2,7 +2,7 @@
 
 Name:M.Monish
 <br>
-College :Chettinad college of engineering and technology dindigul
+College :Chettinad college of engineering and technology Karur
 <br>
 Intern Id:CT12DS2022
 <br>
@@ -11,6 +11,8 @@ Duration:August 1st to October 1st 2024
 Domain:UI/UX design
 <br>
 Company:Codtechit solution
+<br>
+Mentor:Muzammil Ahmed
 <br>
  <h1>Music App Design Project using Figma</h1>
 
