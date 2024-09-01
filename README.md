@@ -35,6 +35,4 @@ Company:Codtechit solution
 
    <h2>Contributing</h2>
     <p>If you have any suggestions or want to contribute to this project, feel free to submit a pull request or open an issue.</p>
-    ![Screenshot (1286)](https://github.com/user-attachments/assets/001859cb-bfe4-40d7-be1b-da0d0ba410d1)
-![Screenshot (1287)](https://github.com/user-attachments/assets/fa9226f6-d5bc-47f8-b018-50fc80d72d78)
-
+ 
